@@ -1,4 +1,4 @@
-!(function() {
+!(function () {
   class DogAnimation {
     constructor(canvas) {
       this.canvas = canvas
